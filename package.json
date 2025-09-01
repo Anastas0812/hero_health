@@ -1,0 +1,30 @@
+{
+  "name": "hero_health",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/Anastas0812/hero_health#readme",
+  "bugs": {
+    "url": "https://github.com/Anastas0812/hero_health/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anastas0812/hero_health.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage",
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.28.3",
+    "@babel/core": "^7.28.3",
+    "@babel/preset-env": "^7.28.3",
+    "eslint": "^9.34.0",
+    "jest": "^30.1.2"
+  },
+  "dependencies": {
+    "core-js": "^3.45.1"
+  }
+}
